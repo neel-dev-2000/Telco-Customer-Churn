@@ -28,3 +28,22 @@ The “Churn” column is our target.
 
 https://github.com/Geo-y20/Telco-Customer-Churn- 
 Helping Repo
+
+
+
+
+Common Analyses You Can Do
+
+Churn Rate: What % of customers are leaving?
+
+Demographic Churn: Do senior citizens or single customers churn more?
+
+Tenure Effect: Are new customers more likely to churn than long-term ones?
+
+Service Analysis: Does having internet/TV/phone bundles reduce churn?
+
+Contract Type: Are month-to-month customers more likely to churn?
+
+Billing/Payment: Does paperless billing or payment method affect churn?
+
+Revenue Impact: Which segment contributes most to revenue loss?
